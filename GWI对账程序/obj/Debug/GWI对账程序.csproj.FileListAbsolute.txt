@@ -1,0 +1,16 @@
+C:\Users\HM\Documents\visual studio 2013\Projects\GWI对账程序1.18.01.06\GWI对账程序\bin\Debug\GWI对账程序.exe.config
+C:\Users\HM\Documents\visual studio 2013\Projects\GWI对账程序1.18.01.06\GWI对账程序\obj\Debug\GWI对账程序.exe
+C:\Users\HM\Documents\visual studio 2013\Projects\GWI对账程序1.18.01.06\GWI对账程序\obj\Debug\GWI对账程序.pdb
+C:\Users\HM\Documents\visual studio 2013\Projects\GWI对账程序1.18.01.06\GWI对账程序\bin\Debug\GWI对账程序.exe
+C:\Users\HM\Documents\visual studio 2013\Projects\GWI对账程序1.18.01.06\GWI对账程序\bin\Debug\GWI对账程序.pdb
+C:\Users\HM\Documents\visual studio 2013\Projects\GWI对账程序1.18.01.06\GWI对账程序\obj\Debug\GWI对账程序.Form1.resources
+C:\Users\HM\Documents\visual studio 2013\Projects\GWI对账程序1.18.01.06\GWI对账程序\obj\Debug\GWI对账程序.Properties.Resources.resources
+C:\Users\HM\Documents\visual studio 2013\Projects\GWI对账程序1.18.01.06\GWI对账程序\obj\Debug\GWI对账程序.csproj.GenerateResource.Cache
+C:\Users\HM\Documents\Visual Studio 2013\Projects\GWI对账程序\GWI对账程序\bin\Debug\GWI对账程序.exe.config
+C:\Users\HM\Documents\Visual Studio 2013\Projects\GWI对账程序\GWI对账程序\bin\Debug\GWI对账程序.exe
+C:\Users\HM\Documents\Visual Studio 2013\Projects\GWI对账程序\GWI对账程序\bin\Debug\GWI对账程序.pdb
+C:\Users\HM\Documents\Visual Studio 2013\Projects\GWI对账程序\GWI对账程序\obj\Debug\GWI对账程序.Form1.resources
+C:\Users\HM\Documents\Visual Studio 2013\Projects\GWI对账程序\GWI对账程序\obj\Debug\GWI对账程序.Properties.Resources.resources
+C:\Users\HM\Documents\Visual Studio 2013\Projects\GWI对账程序\GWI对账程序\obj\Debug\GWI对账程序.csproj.GenerateResource.Cache
+C:\Users\HM\Documents\Visual Studio 2013\Projects\GWI对账程序\GWI对账程序\obj\Debug\GWI对账程序.exe
+C:\Users\HM\Documents\Visual Studio 2013\Projects\GWI对账程序\GWI对账程序\obj\Debug\GWI对账程序.pdb
